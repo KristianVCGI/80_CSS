@@ -1,6 +1,6 @@
 .qv-object .qv-inner-object {
     background-color:green!important;
 
-.qv-object .qv-object-title { 
+.qv-object .qv-object-header span {
   font-size: calc(15px + 0.390625vw) !important; 
   background: #e5e7ea;} 
