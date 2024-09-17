@@ -2,5 +2,5 @@
     background-color:green!important;
 
 .qv-object .qv-object-title { 
-    font-size: calc(15px + 0.390625vw) !important; 
-    background: #e5e7ea;} 
+  font-size: calc(15px + 0.390625vw) !important; 
+  background: #e5e7ea;} 
